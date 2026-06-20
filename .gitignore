@@ -1,0 +1,11 @@
+node_modules
+dist
+out
+backups
+*.db
+*.db-wal
+*.db-shm
+
+# Local tool settings
+.claude/
+.openclaude/
